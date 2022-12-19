@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+   display: flex;
+   flex-direction: row;
+}
+
+#imglogo{
+    height: 50px;
+    width: 125px;
+    margin: 10px;
+}
+
+.nav{
+    text-decoration: none; 
+    padding: 20px;
+    display: inline;
+    text-align: center;
+
+  }
+  #nav-list{
+      display: inline;
+  }
+  #navigation {
+      list-style-type: none;
+      padding: 20px 0px 20px 0px;
+      margin-top: 0;
+  }
+
+  #line{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+#hbutton{
+    background-color:#FFD8DB ;
+    color: #A389CC ;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    border: none;
+}
+
+Pink: #FFD8DB
+Blue: #A389CC
