@@ -1,0 +1,169 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+   display: flex;
+   flex-direction: row;
+}
+
+#imglogo{
+    height: 50px;
+    width: 125px;
+    margin: 10px;
+    margin-left: 50px;
+}
+
+.nav{
+    text-decoration: none; 
+    padding: 20px;
+    display: inline;
+    text-align: center;
+
+  }
+  #nav-list{
+      display: inline;
+      font-family: Tahoma;
+      font-size: small;
+      font-weight: bold;
+  }
+  #navigation {
+      list-style-type: none;
+      padding: 20px 0px 20px 0px;
+      margin-top: 0;
+  }
+
+  #line{
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+#hbutton{
+    background-color:#FFD8DB ;
+    color: #A389CC ;
+    padding: 20px 20px 20px 20px;
+    margin: 10px;
+    border-radius: 20px;
+    border: none;
+    font-family: Tahoma;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+#fbutton{
+    background-color:#5243C0 ;
+    color: #ffffff ;
+    padding: 20px 20px 20px 20px;
+    margin: 10px;
+    border-radius: 20px;
+    border: none;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+
+.startbutton{
+    border: none;
+    background-color: white;
+    font-weight: bold;
+    color: grey;
+    padding: 10px 0 10px 0;
+
+}
+
+.startbutton:hover{
+    border: none;
+    border-bottom: 3px solid darkblue;
+    padding: 10px 0 0 0;
+    background-color: white;
+    font-weight: bold;
+    color: black;
+}
+
+
+
+h1{
+    font-size:60px;
+
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+    margin-right: auto;
+
+}
+
+.stun{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+main{
+    display: flex;
+}
+
+.arrow{
+    margin-top: 0;
+    width: 50px;
+    height: 50px;
+}
+
+#beech{
+    display: flex;
+    align-items: center;
+}
+
+
+.mainPro{
+    width: 75%;
+    margin: 50px;
+    border-radius: 10px;
+}
+ 
+.mainPro div{
+    padding: 3px;
+}
+ 
+.profile{
+    display: inline-flex;
+    align-items: center;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    height: 50px;
+    padding: 0;
+    outline: none;
+    margin-left: 20px;
+    background-color: ghostwhite;
+    overflow: hidden;
+    font-size: 10px;
+    font-weight: 500;
+    justify-content: space-evenly;
+}
+ 
+ 
+.profile:hover{
+    background-color: #ffffff;
+    box-shadow: rgba(6, 4, 10, 0.4) 0 6px 10px, rgba(7, 6, 10, 0.3) 0 7px 13px -3px, #e7e7ee 0 -3px 0 inset;
+}
+
+.profile p{
+    padding-left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+

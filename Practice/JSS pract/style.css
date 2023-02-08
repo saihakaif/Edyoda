@@ -1,0 +1,37 @@
+body{
+    background-color:#F8EDE3;
+    display: flex;
+
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inline{
+    display: inline;
+    padding: 20px;
+}
+
+button{
+    padding: 10px;
+    background-color: #85586F;
+    color:  #D0B8A8;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#result{
+    padding: 40px;
+    margin-top: 10px;
+    background-color: #DFD3C3;
+    color: #85586F;
+    width: 280px;
+}

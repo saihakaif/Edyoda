@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap");
+
+body{
+    background-color:#54c3ef ;
+    font-family: "Source Sans Pro";
+ 
+}
+
+h1{
+    font-family: "Caveat Brush" , cursive;
+    color: #fad744;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 2px 3px black;
+}
+
+#form{
+    width:50% ;
+    background-color: #2b3252;
+    margin: auto;
+    
+}
+
+
+
+#devwala{
+    display: inline;
+    align-items: ;
+}
+
+#score{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+  }
